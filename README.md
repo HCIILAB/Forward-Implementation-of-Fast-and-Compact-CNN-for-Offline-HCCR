@@ -1,6 +1,6 @@
 # Forward Implementation of Fast and Compact CNN for Offline HCCR
 
-This project is a forward model of a fast and compact convolutional neural network for offline handwritten Chinese chracter recognition(HCCR). For more information, please see the paper: ["Xuefeng Xiao, Building Fast and Compact Convolutional Neural Networks for Offline Handwritten Chinese Character Recognition, arXiv:1702.07975 [cs.CV]"](https://arxiv.org/abs/1702.07975v1). 
+This project is a forward model of a fast and compact convolutional neural network for offline handwritten Chinese chracter recognition(HCCR). For more information, please see the paper: "Xuefeng Xiao, Lianwen Jin∗, Yafeng Yang, Weixin Yang, Jun Sun, Tianhai Chang, Building Fast and Compact Convolutional Neural Networks for Offline Handwritten Chinese Character Recognition, Pattern Recognition, vol.72, no. 72-81, 2017. 
 
 
 ## Project components
