@@ -31,9 +31,11 @@ Owing to the memory limitation, we just offer 1000 images from the competition d
 
 Please cite our paper if it helps your research:
 
-    @inproceedings{xiao2017building,
+    @article{xiao2017building,
       author = {Xuefeng Xiao, Lianwen Jin, Yafeng Yang, Weixin Yang, Jun Sun, Tianhai Chang},
       title = {Building Fast and Compact Convolutional Neural Networks for Offline Handwritten Chinese Character Recognition},
-      booktitle = {arXiv:1702.07975 [cs.CV]},
+      journal={Pattern Recognition},
+      volume={72},
+      pages={72--81},
       year = {2017},
     }
